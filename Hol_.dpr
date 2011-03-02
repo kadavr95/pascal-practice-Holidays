@@ -1,8 +1,8 @@
-program Holidays_;
+program Hol_;
 
 uses
   Forms,
-  Holidays in 'Holidays.pas' {Form2};
+  Hol in 'Hol.pas' {Form2};
 
 {$R *.res}
 

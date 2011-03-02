@@ -1,10 +1,10 @@
-unit Holidays;
+unit Hol;
 
 interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls, Grids;
+  Dialogs, StdCtrls, Grids, jpeg, ExtCtrls;
 
 type
   TForm2 = class(TForm)
